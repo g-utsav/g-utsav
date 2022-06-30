@@ -28,7 +28,7 @@
   <a href= https://github.com/g-utsav?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/java.svg'> </a>
    <a href= https://github.com/g-utsav?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/spring.svg'> </a>
 <a href= https://github.com/g-utsav?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/g-utsav?tab=repositories> <img width ='64px' src 
+<a href= https://github.com/g-utsav?tab=repositories> <img width ='128px' src 
 ='https://www.vectorlogo.zone/logos/hibernate/hibernate-ar21.svg'> </a>
 <a href= https://github.com/g-utsav?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
 <a href= https://github.com/g-utsav?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
