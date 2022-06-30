@@ -44,7 +44,7 @@
 <br>
   <br>
   
-[![Utsav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=HardikThummar97&theme=tokyonight)](https://git.io/praveenscience)
+[![Utsav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=g-utsav&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Utsav's github stats](https://github-readme-stats.vercel.app/api?username=g-utsav&show_icons=true&theme=tokyonight) | ![Utsav GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g-utsav&theme=tokyonight) |
 | --- | --- |
