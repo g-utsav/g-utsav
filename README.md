@@ -25,6 +25,21 @@
 - 💬 Have a look at my [LinkedIn](https://www.linkedin.com/in/g-utsav/).
   
 - 💬 Have a look at my [Portfolio](https://utsavgupta.netlify.app).
+  
+<h2> My Story </h2>
+  
+Coding is my passion.
+
+I always knew my dream was to be a problem solver, sipping my tea and thinking along the lines
+of the efficient approach to solving a problem. It seemed like an appropriate dream. Fast forward to 
+the year 2013 I came across the world of computers and problem solving using codes along with it me at the age of 13-14 years how could have I resisted the thought of being a hacker and that was it, the dream of being a hacker. It got me consumed, in learning ways to interact with the computer and bypass its features. I was in my 9th standard when I first bypassed the security of an application(It was a simple application) and also came across a variety of programming languages(Java, Python, C#, C++....) and choose Java as my first language.
+
+A couple of years later I choose Physics for my higher studies as there is no better place filled with problems than Physic's also me being a person who enjoyed solving problems, decided to go with Physics. I gravitated toward Physics and in Physics I found my love for programming again in the classes of Mathematica Physics where we used Python to model/predict the situation. And here I am making my way into the Computers back again.
+
+I love it when my application solves the problem, I enjoy every moment of engineering the app, the blank stare into the screen with no idea what to do next or the sudden spark of an idea on how to proceed further, getting completely submerged in code that I forget about the time, and every hustle in the process, I LOVE IT ALL.
+
+Coming to my specialties(This just includes the tech I've worked on, I enjoy a lot learning new Tech) include quickly learning new skills and programming languages, problem-solving, and the and Model View Controller(MVC) methods of organizing code. So far I have JAVA, MySQL, Spring, Spring Boot, Hibernate, JavaScript, HTML, CSS, Bootstrap, Python(along with libraries like PyGame, scipy, numpy, matplotlib), C#, C++, and Git/GitHub under my belt. I'm still enthusiastically grabbing onto new concepts, frameworks, and principles.
+  
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
   <a href= https://github.com/g-utsav?tab=repositories> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/java.svg'> </a>
