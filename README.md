@@ -22,7 +22,7 @@
 
 - 💞️ I like to think of ways of solving-problem with a constant thirst of increasing my knowledge.
 
-- 💬 Have a look at my [LinkedIn](https://www.linkedin.com/in/g-utsav/).
+- 💬 Have a look at my [LinkedIn](www.linkedin.com/in/g-utsav).
   
 - 💬 Have a look at my [Portfolio](https://utsavgupta.netlify.app).
   
