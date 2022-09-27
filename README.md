@@ -64,9 +64,8 @@ I'm a passionate learner who's always willing to learn and work across technolog
 <br>
   <br>
   <a href="https://github.com/g-utsav/github-readme-activity-graph"><img alt="Utsav Gupta's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=g-utsav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-[![Utsav's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=g-utsav&theme=tokyonight)](https://git.io/praveenscience)
 
-| ![Utsav's github stats](https://github-readme-stats.vercel.app/api?username=g-utsav&show_icons=true&theme=tokyonight) | ![Utsav GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g-utsav&theme=tokyonight) |
+| ![Utsav's github stats](https://github-readme-stats.vercel.app/api?username=g-utsav&show_icons=true&theme=tokyonight) | ![Utsav GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g-utsav&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-utsav&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
 
