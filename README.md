@@ -67,8 +67,10 @@ I'm a passionate learner who's always willing to learn and work across technolog
 
 | ![Utsav's github stats](https://github-readme-stats.vercel.app/api?username=g-utsav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) | ![Utsav GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=g-utsav&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117) |
 | --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-utsav&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)|
-
+<!-- | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-utsav&theme=tokyonight) | Well...That's all ♾️ <br> Have a li'l smile 😄 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)| -->
+ <a href="https://github.com/g-utsav/github-readme-stats"><img alt="'Utsav Gupta's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g-utsav&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
 
