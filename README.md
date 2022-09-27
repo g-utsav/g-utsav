@@ -20,7 +20,7 @@ Coding is my passion.
 <!-- <img width="50%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" /> -->
 <img align="right" alt="Coding" width="400" src="https://www.aegisinfoways.com/images/java/java.jpg">
 
-
+<br>
 - 🔭 Intrigued to learn new technologies.
 
 - 🌱 I’m Currently learning JAVA Backend Developement at MASAI school.
