@@ -15,7 +15,7 @@
   
 Coding is my passion.
 
-I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨ I'm deep into Software 🕸️ Development.
+<p align="center">I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨ I'm deep into Software 🕸️ Development.</p>
 
 <!-- <img width="50%" align="right" alt="Github" src="https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" /> -->
 <img align="right" alt="Coding" width="400" src="https://www.aegisinfoways.com/images/java/java.jpg">
